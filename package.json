@@ -1,0 +1,23 @@
+{
+  "name": "crud-app-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhrishabh93/CRUD-App-REST-API.git"
+  },
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "author": "Rishabh Singh (@singhrishabh1670)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhrishabh93/CRUD-App-REST-API/issues"
+  },
+  "homepage": "https://github.com/singhrishabh93/CRUD-App-REST-API#readme"
+}
