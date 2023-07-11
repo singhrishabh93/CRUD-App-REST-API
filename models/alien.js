@@ -7,14 +7,16 @@ const alienSchema = new mongoose.Schema({
         type: String,
         required: true
     },
-    tech:{
+    tech: {
         type: String,
         required: true
     },
-    sub:{
+    sub: {
         type: Boolean,
         required: true,
         default: false
     }
 
 })
+
+module.exports = mongoose.model('Alien',alienSchema)
