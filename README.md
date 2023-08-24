@@ -23,7 +23,7 @@ This is a RESTful API for a CRUD (Create, Read, Update, Delete) application buil
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone https://github.com/singhrishabh93/CRUD-App-REST-API.git`
 2. Install the dependencies: `npm install`
 3. Set up the MongoDB connection in the configuration file: `config/database.js`
 4. Start the server: `npm start`
